@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravipanavi&label=Profile%20views&color=0e75b6&style=flat" alt="ravipanavi" /> </p>
 
-- 🔭 I’m currently working on **Specialist - Software Engineering | DevOps Engineer**
+- 🔭 I’m currently working in ** LTIMindtree | Specialist - Software Engineering**
 
 - 🌱 I’m currently learning **Machine learning and AI @ Liverpool John Moores University**
+
+- - 👨‍💻 All of my projects are available at [https://github.com/Ravipanavi](https://github.com/Ravipanavi)
+
+-  💬 Ask me about **DevOps & Cloud DevOps**
 
 - 📫 How to reach me **ravipanavirs@gmail.com**
 
