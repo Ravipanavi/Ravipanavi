@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravipanavi&label=Profile%20views&color=0e75b6&style=flat" alt="ravipanavi" /> </p>
 
-- 🔭 I’m currently working on **DevOps Engineer**
+- 🔭 I’m currently working on **Specialist - Software Engineering | DevOps Engineer**
 
 - 🌱 I’m currently learning **Machine learning and AI @ Liverpool John Moores University**
 
