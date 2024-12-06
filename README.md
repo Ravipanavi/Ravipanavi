@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Panavi</h1>
-<h3 align="center">A passionate DevOps Engineer From India.</h3>
+<h3 align="center">A passionate Artificial Intelligence & Machine Learning From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravipanavi&label=Profile%20views&color=0e75b6&style=flat" alt="ravipanavi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - - 👨‍💻 All of my projects are available at [https://github.com/Ravipanavi](https://github.com/Ravipanavi)
 
--  💬 Ask me about **DevOps & Cloud DevOps**
+-  💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **ravipanavirs@gmail.com**
 
